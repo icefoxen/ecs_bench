@@ -15,4 +15,4 @@ trex = "0.2.0"
 calx-ecs = "0.5"
 froggy = "0.1"
 constellation = "0.2"
-ggez-goodies = {git = "https://github.com/ggez/ggez-goodies.git"}
+duckling = {git = "https://github.com/icefoxen/duckling.git"}
