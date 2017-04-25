@@ -3,8 +3,8 @@
 extern crate test;
 use test::Bencher;
 
-extern crate ggez_goodies;
-use ggez_goodies::ecs::*;
+extern crate duckling;
+use duckling::*;
 
 extern crate ecs_bench;
 
